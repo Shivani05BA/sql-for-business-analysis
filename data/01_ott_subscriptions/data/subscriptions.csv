@@ -1,0 +1,10 @@
+
+subscriber_id,plan,start_date,next_renewal_date,status,monthly_fee,auto_renew,payment_status,cancellation_date
+1001,Premium,2026-01-01,2026-11-01,Active,499,Yes,Success,
+1002,Basic,2026-02-15,2026-11-15,Active,199,Yes,Success,
+1003,Premium,2026-03-01,2026-10-01,Cancelled,499,No,Success,2026-10-01
+1004,Basic,2026-04-10,2026-11-10,Active,199,Yes,Failed,
+1005,Premium,2026-05-20,2026-10-20,Cancelled,499,Yes,Failed,2026-10-20
+1006,Basic,2026-06-05,2026-11-05,Active,199,Yes,Success,
+1007,Premium,2026-07-12,2026-10-12,Cancelled,499,No,Success,2026-10-12
+1008,Basic,2026-08-01,2026-11-01,Active,199,Yes,Failed,
