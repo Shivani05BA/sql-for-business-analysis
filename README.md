@@ -1,42 +1,35 @@
-# SQL for Business Analysis
+# Hi, I'm Shivani 
 
-## About This Project
+### Business Analyst | Product & Technology
 
-This repository is a practical learning portfolio focused on using SQL to solve business problems, analyse data, and support data-driven decisions.
+I'm a Business Analyst with experience in business process analysis, implementation, requirements gathering, stakeholder collaboration and workflow optimisation.
 
-My goal is to strengthen my technical skills as a Business Analyst, with a focus on Marketing Technology (MarTech) and Advertising Technology (AdTech).
+I'm building a technical portfolio focused on understanding how digital products work, how systems exchange data, and how product teams use data to make better decisions.
 
-## Business Scenario
+## Areas of Focus
 
-A marketing team runs multiple advertising campaigns but needs better visibility into campaign performance, conversion rates, advertising spend, and revenue.
+- **SQL & Data Analysis** — querying, validating and interpreting business data
+- **APIs & Integrations** — understanding system interactions, API requirements and testing
+- **Product Analytics** — subscriptions, retention, bookings, payments and customer journeys
+- **Business Analysis** — requirements, user stories, process mapping, acceptance criteria and UAT
 
-Using a fictional campaign dataset, I will use SQL to investigate business questions and identify actionable insights.
+## Product Domains
 
-## Business Questions
+- OTT & Streaming
+- Travel & Booking Platforms
+- Fintech & Digital Banking
 
-- Which campaigns generate the most revenue?
-- Which campaigns have the highest conversion rates?
-- Are there campaigns with high advertising spend but low conversions?
-- How can SQL help validate the accuracy of campaign reporting data?
+## Portfolio Projects
 
-## Skills I'm Developing
+Projects are being developed to demonstrate practical business analysis, technical investigation and product problem-solving.
 
-- SQL fundamentals and data filtering
-- Aggregations and business metrics
-- Joining datasets
-- Data validation and quality checks
-- Translating analysis into business recommendations
+- SQL for Business Analysis
+- OTT Subscription & Churn Analysis
+- Travel Booking & Cancellation Analysis
+- Fintech Payments & Transaction Reconciliation
 
-## Project Roadmap
+## Current Focus
 
-- [ ] SQL basics: SELECT, WHERE, ORDER BY
-- [ ] Aggregations: COUNT, SUM, AVG and GROUP BY
-- [ ] JOIN operations
-- [ ] Campaign performance analysis
-- [ ] Data validation and business insights
+Building practical skills in SQL, REST APIs, Postman, product metrics and data validation.
 
-## Project Status
-
-In progress — building practical SQL skills through business-focused exercises.
-
-*All datasets used in this portfolio will be fictional or publicly available, with sources documented where applicable.*
+*This portfolio is a work in progress. Project descriptions and findings will be updated as each project is completed and validated.*
